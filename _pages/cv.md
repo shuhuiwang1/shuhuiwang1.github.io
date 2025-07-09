@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Biology, Dauphine University-PSL, 2022.11-2025.12 (expected)
+* M.S. in Applied Mathematics, Beijing Jiaotong University, 2019.09-2022.06
+* B.S. in Engineering (double degree), Centralesupelec Paris Saclay University, 2017.09-2019.06
+* B.S. in Statistics, Beijing Jiaotong University, 2015.09-2017.06
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2021: AI Intern
+  * Schlumberger, Beijing, China
+  * Duties includes: Using supervised learning and numerical methods to predict the mechanical formation based on well logging data.   
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Typography
+  * MS office
+  * Latex 
+* Programming
+  * Python: scikit-learn, pytorch, pandas
+  * Matlab
+  * R
+* Statistics: SQL
+* Others: Photoshop 
+
+Language
+======
+* Chinese: Native speaker 
+* English: C1
+  * IELST 7.5
+  * GRE (V 159, Q 168)
+* French: B2
+* Arabic: A1
+
 
 Publications
 ======
