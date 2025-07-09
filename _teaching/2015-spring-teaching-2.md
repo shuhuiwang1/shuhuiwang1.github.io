@@ -8,13 +8,8 @@ date: 2024-02-15
 location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In this class, I am responsible for teaching conceptions, tutoring, and marking
 
-Heading 1
+Contents
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+* Statistical modeling: PCA, NMF 
