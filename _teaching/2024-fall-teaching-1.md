@@ -8,7 +8,7 @@ date: 2024-10-01
 location: "Paris, France"
 ---
 
-In this class, I am responsible for teaching conceptions, tutoring, and marking.
+In this class, I am responsible for tutoring on exercises and programming by using python, and marking.
 
 Contents
 ======
