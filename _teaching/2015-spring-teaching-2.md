@@ -3,7 +3,7 @@ title: "Algorithm and Programmation"
 collection: teaching
 type: "Undergraduate course"
 permalink: https://www.lamsade.dauphine.fr/~cornaz/Enseignement/L2_ALGOPROG3/
-venue: "MIDO (Mathématiques et informatique de la décision et des organisations), Dauphine University-PSL"
+venue: "MIDO, Dauphine University-PSL"
 date: 2024-10 
 location: "Paris, France"
 ---

@@ -65,4 +65,11 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Fall 2023: Charge of Teambuilding of Lab 
+  * LBE, ESPCI 
+  * Duties includes: organize the team building activities and Christmas secret Santa
+
+* Fall 2018: President of Chinese and French Culture Exchange Club 
+  * Centralesupelec Paris Saclay University
+  * Duties includes: organize the calligraph workshop, Chinese new celebration market
+  
