@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Project on data analysis"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Dauphine University-PSL, MIDO"
+date: 2025-03
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This class is devoted to teahc students how to use machine learning tools, such as PCA, Non negative matrix factorization.
 
-Heading 1
+Main contents
 ======
+* Session 1: Introduction to statistical modeling methods
+* Session 2: Introduction to logistic regression 
 
-Heading 2
-======
 
-Heading 3
-======
