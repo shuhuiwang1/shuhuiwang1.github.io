@@ -1,0 +1,13 @@
+---
+title: "Improved surrogate-assisted whale optimization algorithm for fractional chaotic systems’ parameters identification"
+collection: publications
+category: manuscripts
+permalink: https://doi.org/10.1016/j.engappai.2022.104685
+excerpt: 'Accurate identification of the unknown parameters in fractional chaotic systems is crucial for their precise control. However, the evaluation of these systems is relatively expensive in the sense that its numerical process demands considerable time. Thus, it is essential to design a less time-demanding algorithm with high accuracy. Motivated by this, this paper aims to propose an algorithm with high accuracy and quick convergence speed, leading to a smaller computational budget. To achieve this goal, an Improved Surrogate-Assisted Whale Optimization Algorithm, denoted as ISAWOA, is proposed. A surrogate-assisted model is employed to approximate the fitness function, then, both the Lévy flight and the quadratic interpolation techniques are used to improve the exploration and exploitation capacity of the Whale Optimization Algorithm. The simulation results on 20 classical benchmark functions demonstrate that ISAWOA is able to locate an optimal solution with high accuracy and much faster than 14 other algorithms found in the literature. Finally, the proposed algorithm is validated on several representative fractional chaotic systems where ISAWOA is again able to outperform other methods, both in precision and CPU time. The overall test results show that ISAWOA is a promising algorithm with high accuracy, quick convergence, and that it requires a moderate amount of CPU time when dealing with parameter estimation problems on fractional chaotic systems.'
+date: 2022-04-01
+venue: 'Engineering Applications of Artificial Intelligence'
+paperurl: 'https://doi.org/10.1016/j.engappai.2022.104685'
+citation: 'Wang S, Hu W, Riego I, Yu Y. Improved surrogate-assisted whale optimization algorithm for fractional chaotic systems’ parameters identification. Engineering Applications of Artificial Intelligence. 2022 Apr 1;110:104685.'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

@@ -1,0 +1,13 @@
+---
+title: "Static and dynamic solar photovoltaic models’ parameters estimation using hybrid Rao optimization algorithm"
+collection: publications
+category: manuscripts
+permalink: https://doi.org/10.1016/j.jclepro.2021.128080
+excerpt: 'Photovoltaic (PV) modeling research is a growing area of interest. The accuracy of PV models pertains to the efficient design and control of PV systems. Subsequently, several static and dynamic models were developed to emulate the course of current in PV cells. Moreover, a novel fractional order dynamic PV model has been proposed to enhance the accuracy of the conventional integral order one. The parameter estimation of these models is a challenging task. Most of the existing methods designed for handling this problem require either time-consuming parameter tuning process, or malfunction for systems exposed to environmental fluctuation. Besides, there has been a lack of researches into fractional dynamic PV models. In these circumstances, a hybrid Rao_1 Optimization Algorithm, denoted as HROA, is proposed for addressing this parameter extraction problem. Its exploration capacity is enhanced by introducing a logistic chaotic map and an exploration operator from the Generalized Normal Distribution Optimization algorithm (GNDO). Then a performance learning mechanism is employed to realize an adaptive transition between exploration and exploitation. HROA stands out by being parameter-tuning-free and efficient on a wide range of PV models. For the static models, HROA offers the best performance. A comprehensive performance analysis reveals that HROA exhibits a higher accuracy and less deviation than many recent algorithms. For the dynamic models, HROA is among the 3 best algorithms, it is capable of emulating the experimental datasets with low deviation error. The results also confirm that fractional dynamic model has better fitting effect than integral one. All the evidence suggests that HROA is a promising alternative for dealing with parameter identification problems in PV systems.'
+date: 2021-09-15
+venue: 'Journal of Cleaner Production'
+paperurl: 'https://doi.org/10.1016/j.jclepro.2021.128080'
+citation: 'Wang S, Yu Y, Hu W. Static and dynamic solar photovoltaic models’ parameters estimation using hybrid Rao optimization algorithm. Journal of Cleaner Production. 2021 Sep 15;315:128080.'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
