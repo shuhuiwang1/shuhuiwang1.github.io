@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Project of data analysis"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: https://moodle.psl.eu/enrol/index.php?id=31768
+venue: "MIDO (Mathématiques et informatique de la décision et des organisations), Dauphine University-PSL"
+date: 2025-03
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In this class, I am in charge of teaching conceptions, tutoring, and marking. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

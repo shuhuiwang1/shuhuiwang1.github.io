@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Algorithm and Programmation"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: https://www.lamsade.dauphine.fr/~cornaz/Enseignement/L2_ALGOPROG3/
+venue: "MIDO (Mathématiques et informatique de la décision et des organisations), Dauphine University-PSL"
+date: 2024-10 
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In this class, I am in charge of marking, tutoring exercises and programming classes, and assisting in the design of lessons. 
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
