@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Computational Biology, in [Machine Learning and Learning Systems Lab](https://www.lamsade.dauphine.fr/wp/miles/) of  Dauphine Univeristy-PSL and [Biology and Evolution Lab](https://www.lbe.espci.fr/home/) of ESCPI-PSL. The PhD thesis is under the supervision of [Alexandre Allauzen](https://allauzen.github.io/) and [Philippe Nghe](https://scholar.google.com/citations?hl=fr&user=MF7e9eAAAAAJ&view_op=list_works&sortby=pubdate)
+I am currently a PhD student in Computational Biology, in [Machine Learning and Learning Systems Lab](https://www.lamsade.dauphine.fr/wp/miles/) of  Dauphine Univeristy-PSL and [Biology and Evolution Lab](https://www.lbe.espci.fr/home/) of ESCPI-PSL. The PhD thesis is under the supervision of [Alexandre Allauzen](https://allauzen.github.io/) and [Philippe Nghe](https://scholar.google.com/citations?hl=fr&user=MF7e9eAAAAAJ&view_op=list_works&sortby=pubdate).
+
 My research focused on leveraging deep learning methods to predict diverse biological interactions. My work integrates cutting-edge machine learning techniques with complex biological data, aiming to enhance our understanding and capabilities in areas such as drug discovery and disease modeling. I have a strong interest in precision medicine, generative modeling, drug design, and optimizing drug screening processes. I expect to complete my PhD by December and am actively seeking a postdoctoral position in precision medicine, where I can continue applying and expanding my expertise at the intersection of AI and biomedical research.
 
 Summary of PhD thesis
